@@ -60,7 +60,7 @@ zerodha-clone/
 
 ---
 
-## 🔐 Authentication Flow
+Authentication Flow
 
 1. User signs up using email & password
 2. User logs in
@@ -89,6 +89,7 @@ npm install
 npm run dev
 
 Frontend Setup
+```bash
 cd frontend
 npm install
 npm start
