@@ -87,3 +87,25 @@ Backend Setup
 cd backend
 npm install
 npm run dev
+
+Frontend Setup
+cd frontend
+npm install
+npm start
+
+http://localhost:3000
+http://localhost:5000
+
+
+---
+
+STEP 3: Commit README
+
+After saving `README.md`, run:
+
+```bash
+git add README.md
+git commit -m "Add project README"
+git push
+
+
